@@ -5,7 +5,5 @@ interface footerConfig {
 
 export const config: footerConfig = {
   nav: {
-    '/atom.xml': 'RSS',
-    '/sitemap.xml': 'Sitemap'
   }
 }

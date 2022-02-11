@@ -1,11 +1,5 @@
 export const themes = {
-  light: '🌕 Light',
-  dark: '🌑 Dark',
-  cupcake: '🧁 Cupcake',
-  emerald: '✳️ Emerald',
-  valentine: '🌸 Valentine',
-  synthwave: '🌃 Synthwave',
-  halloween: '🎃 Halloween',
-  aqua: '💦 Aqua',
-  dracula: '🧛 Dracula'
+  light: '古董白',
+  dark: '极夜黑',
+  cupcake: '香草荚'
 }

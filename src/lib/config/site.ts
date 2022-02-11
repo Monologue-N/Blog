@@ -21,10 +21,10 @@ interface Site {
 }
 
 export const site: Site = {
-  title: 'Urara',
-  subtitle: 'Sweet & Powerful SvelteKit Blog Template',
+  title: 'Home',
+  subtitle: 'Monologue.№\'s Blog',
   lang: 'en-US',
-  descr: 'Powered by SvelteKit/Urara',
+  descr: '',
   author: {
     name: 'Monologue.№',
     avatar: '/assets/maskable@512.png',

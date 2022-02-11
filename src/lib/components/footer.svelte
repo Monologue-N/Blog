@@ -18,17 +18,22 @@
       {/each}
     </p>
     <p>
+      "风再大，都绕过我的灵魂。"
+      <br/>
+      <br/>
       Copyright © {site.since && site.since !== new Date().toJSON().substring(0, 4)
         ? `${site.since} - ${new Date().toJSON().substring(0, 4)}`
         : new Date().toJSON().substring(0, 4)}
       {site.author.name}
-      <br />
-      Powered by
-      <a rel="noopener external" target="_blank" href="https://github.com/sveltejs/kit">SvelteKit</a>
-      /
-      <a rel="noopener external" target="_blank" href="https://github.com/pngwn/mdsvex">MDsveX</a>
-      /
-      <a rel="noopener external" target="_blank" class="urara-link" href="https://github.com/importantimport/urara">Urara</a>
+
+
+<!--      <br />-->
+<!--      Powered by-->
+<!--      <a rel="noopener external" target="_blank" href="https://github.com/sveltejs/kit">SvelteKit</a>-->
+<!--      /-->
+<!--      <a rel="noopener external" target="_blank" href="https://github.com/pngwn/mdsvex">MDsveX</a>-->
+<!--      /-->
+<!--      <a rel="noopener external" target="_blank" class="urara-link" href="https://github.com/importantimport/urara">Urara</a>-->
     </p>
     {#if footerConfig.html}
       {@html footerConfig.html}
