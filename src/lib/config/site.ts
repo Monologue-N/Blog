@@ -26,10 +26,10 @@ export const site: Site = {
   lang: 'en-US',
   descr: 'Powered by SvelteKit/Urara',
   author: {
-    name: 'John Doe',
+    name: 'Monologue.№',
     avatar: '/assets/maskable@512.png',
-    status: '🌸',
-    bio: 'lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    status: '🍨',
+    bio: '繁星纵变，长夜永存。'
   },
   url: (import.meta.env.URARA_SITE_URL as string) ?? 'https://example.com',
   themeColor: '#3D4451'
