@@ -129,7 +129,7 @@ Almost any exhibition of complete self-sufficiency **draws** a stunned tribute *
 > 
 > stunned （因惊讶、震惊而）目瞪口呆的；（受重击后）无法正常行动的，昏倒的
 >
-> tribute
+> tribute （表示敬意的）礼物，颂辞，行为；（良好效果或影响的）体现，显示
 
 <br/>
 
