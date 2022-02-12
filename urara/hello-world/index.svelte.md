@@ -185,7 +185,7 @@ rest his hand on my shoulder 将他的手**搭**在我肩上
 
 <span style="color:#758918; text-align: center;">
 
-————————————我是一条分割线————————————
+———————————————
 </span>
 
 
