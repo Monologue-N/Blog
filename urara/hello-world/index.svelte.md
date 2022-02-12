@@ -1,6 +1,7 @@
 ---
 title: 'The Great Gatsby'
 date: 2022-02-10
+lastmod: 2022-02-12
 tags:
   - 'The Great Gatsby'
   - '每日十句'
