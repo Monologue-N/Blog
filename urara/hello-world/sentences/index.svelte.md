@@ -64,6 +64,14 @@ Show me the money. 我要发财了
 
 <br/>
 
+by the ether 空穴来风
+
+finessing 处理事情
+
+Let's raise a toast
+
+Hop in 上车吧
+
 of any importance 不容小觑
 
 walk through 行走于
