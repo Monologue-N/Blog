@@ -6,6 +6,10 @@ tags: ['短语']
 
 Someday. 有朝一日
 
+year in, (and) year out 年复一年
+
+written in the starts 命中注定
+
 Time tries all things. 时间证明一切
 
 Benevolence is invincible. 仁者无敌
@@ -49,6 +53,8 @@ Together for a shared future. 共同奔赴未来
 Please don’t make a sense. 请勿当众吵闹
 
 Call it a day. 到此为止
+
+I'm all ears. 洗耳恭听
 
 Nailed it. 搞定了
 
